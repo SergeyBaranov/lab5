@@ -1,0 +1,32 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	color: #666;
+	font-family: Arial;
+}
+
+input
+{
+	margin: 10px;
+	padding: 3px;
+	
+}
+
+form
+{
+	padding: 10px;
+}
+
+textarea
+{
+	margin: 10px;
+	width: 176px;
+	height: 100px;
+	padding: 5px;
+}
+
+h2
+{
+	margin: 20px 0 0 20px;
+}
